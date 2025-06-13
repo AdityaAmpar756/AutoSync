@@ -1,2 +1,2 @@
 /home/ampar/Workspace
-/home/ampar/.local/share/PrismLauncher/instances/1.21.5/minecraft/
+/home/ampar/.local/share/PrismLauncher/instances/1.21.5/minecraft
